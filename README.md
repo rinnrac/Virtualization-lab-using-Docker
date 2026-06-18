@@ -1,0 +1,1 @@
+This project demonstrates the installation and configuration of Docker on a local machine, along with pulling and running container images from Docker Hub. The experiment focuses on understanding the fundamentals of containerization by creating Docker containers using popular Linux-based images such as Ubuntu and Alpine.
