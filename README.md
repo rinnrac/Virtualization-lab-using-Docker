@@ -66,3 +66,5 @@ Learn how Docker images and containers work.
 Gain hands-on experience with Docker commands.
 Understand the process of pulling images from Docker Hub.
 Learn to interact with running containers.
+
+The Docker environment was successfully set up on a local machine. Multiple images were downloaded from Docker Hub, containers were created and executed successfully, and interactive access to the containers was achieved.
