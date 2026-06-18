@@ -56,3 +56,13 @@ Pull required container images.
 Create and run containers.
 Access the container shell.
 Explore and execute commands within the container environment.
+
+Learning Outcomes
+
+Through this project, users will:
+
+Understand the basics of containerization.
+Learn how Docker images and containers work.
+Gain hands-on experience with Docker commands.
+Understand the process of pulling images from Docker Hub.
+Learn to interact with running containers.
