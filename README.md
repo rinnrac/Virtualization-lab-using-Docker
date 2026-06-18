@@ -13,3 +13,9 @@ Downloading images from Docker Hub.
 Running interactive containers.
 Exploring containerized Linux environments.
 Understanding basic Docker commands and workflows.
+
+Docker Desktop
+Docker Hub
+Ubuntu Container Image
+Alpine Linux Container Image
+Command Line Interface (CLI)
