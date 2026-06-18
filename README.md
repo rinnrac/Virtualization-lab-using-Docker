@@ -27,3 +27,7 @@ Internet Connection: Required for downloading Docker images
 Virtualization Technology (VT-x/AMD-V) enabled in BIOS
 
 Download and install Docker Desktop from the official Docker website.
+
+Run the following command:
+
+docker --version
