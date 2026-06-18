@@ -47,3 +47,12 @@ Run a Docker Container
 Launch an interactive Ubuntu container:
 
 docker run -it ubuntu
+
+Project Workflow
+Install Docker Desktop.
+Verify Docker installation.
+Connect to Docker Hub.
+Pull required container images.
+Create and run containers.
+Access the container shell.
+Explore and execute commands within the container environment.
