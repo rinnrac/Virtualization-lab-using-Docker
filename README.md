@@ -37,3 +37,7 @@ Pull Docker Images
 Download the Alpine Linux image:
 
 docker pull alpine
+
+Download the Ubuntu image:
+
+docker pull ubuntu
