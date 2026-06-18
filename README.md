@@ -31,3 +31,9 @@ Download and install Docker Desktop from the official Docker website.
 Run the following command:
 
 docker --version
+
+Pull Docker Images
+
+Download the Alpine Linux image:
+
+docker pull alpine
