@@ -6,3 +6,10 @@ Verify the Docker installation.
 Pull container images from Docker Hub.
 Create and run Docker containers.
 Access and interact with containers through the command-line interface.
+
+Docker Desktop installation and setup.
+Verification of Docker installation using Docker CLI.
+Downloading images from Docker Hub.
+Running interactive containers.
+Exploring containerized Linux environments.
+Understanding basic Docker commands and workflows.
