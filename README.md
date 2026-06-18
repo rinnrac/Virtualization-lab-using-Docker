@@ -41,3 +41,9 @@ docker pull alpine
 Download the Ubuntu image:
 
 docker pull ubuntu
+
+Run a Docker Container
+
+Launch an interactive Ubuntu container:
+
+docker run -it ubuntu
